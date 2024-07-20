@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "processed-properties-bucket-amir"
+        },
+        "object": {
+          "key": "2024_apr_n9b.csv"
+        }
+      }
+    }
+  ]
+}
